@@ -1,0 +1,12 @@
+c:\Users\USUARIO\Desktop\prueba13\prueba13\CalculadoraDemo\bin\Debug\net8.0\CalculadoraDemo.deps.json
+c:\Users\USUARIO\Desktop\prueba13\prueba13\CalculadoraDemo\bin\Debug\net8.0\CalculadoraDemo.dll
+c:\Users\USUARIO\Desktop\prueba13\prueba13\CalculadoraDemo\bin\Debug\net8.0\CalculadoraDemo.pdb
+c:\Users\USUARIO\Desktop\prueba13\prueba13\CalculadoraDemo\obj\Debug\net8.0\CalculadoraDemo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\USUARIO\Desktop\prueba13\prueba13\CalculadoraDemo\obj\Debug\net8.0\CalculadoraDemo.AssemblyInfoInputs.cache
+c:\Users\USUARIO\Desktop\prueba13\prueba13\CalculadoraDemo\obj\Debug\net8.0\CalculadoraDemo.AssemblyInfo.cs
+c:\Users\USUARIO\Desktop\prueba13\prueba13\CalculadoraDemo\obj\Debug\net8.0\CalculadoraDemo.csproj.CoreCompileInputs.cache
+c:\Users\USUARIO\Desktop\prueba13\prueba13\CalculadoraDemo\obj\Debug\net8.0\CalculadoraDemo.sourcelink.json
+c:\Users\USUARIO\Desktop\prueba13\prueba13\CalculadoraDemo\obj\Debug\net8.0\CalculadoraDemo.dll
+c:\Users\USUARIO\Desktop\prueba13\prueba13\CalculadoraDemo\obj\Debug\net8.0\refint\CalculadoraDemo.dll
+c:\Users\USUARIO\Desktop\prueba13\prueba13\CalculadoraDemo\obj\Debug\net8.0\CalculadoraDemo.pdb
+c:\Users\USUARIO\Desktop\prueba13\prueba13\CalculadoraDemo\obj\Debug\net8.0\ref\CalculadoraDemo.dll
